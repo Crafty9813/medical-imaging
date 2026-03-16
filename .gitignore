@@ -1,5 +1,6 @@
 # Dataset
-dataset/
+pneumonia_dataset/
+tumor_dataset/
 # Redundancy
 *.jpeg
 
